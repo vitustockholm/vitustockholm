@@ -7,8 +7,10 @@ Hi, I'm Vytautas.
 
 - :books: I’m currently learning Typescript, Node.js, React.
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> 
-- :pushpin: Interests: UX, UI Design, 3D modeling interactions, SketchUp, Backend Logic, Blockchain development.
+- :pushpin: Interests: 3D modeling interactions, SketchUp, Backend Logic, Blockchain development, Data Collectionier, UX, UI Design, Games 
 
-*private key extractions;DDDD
+**     14 years before I created WAP application and successfully deployed it to server using just Nokia 3100.
+***    very ***very open minded
+****   trust in documentation **before *update or/and ***after *update
 
 ⭐️ From [VytautasB](https://vytautasb.netlify.app/)
