@@ -5,12 +5,13 @@
 
 Hi, I'm Vytautas. 
 
-- :books: I’m currently learning Typescript, Node.js, React, Solidity, Sketchup, Figma and Software Development.
+- :books: I’m currently learning Solidity, and web 3.0 development
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> 
-- :pushpin: Interests: 3D modeling interactions, SketchUp, Backend Logic, Blockchain development, Data Collectionier, UX, UI Design, Games 
+- :pushpin: High frequency exchange trading, flashloans, distrubuted wallet chains, DEFI, NFT, blockchain development.
 
-**     14 years before I created WAP application and successfully deployed it to server using just Nokia 3100.
-***    very ***very open minded
+**     14 years before used to write php code in .txt filetype document on Nokia 3100
+***    a self-taught person
 ****   trust in documentation **before *update or/and ***after *update
+Trust in Code
 
 ⭐️ From [VytautasB](https://vytautasb.netlify.app/)
