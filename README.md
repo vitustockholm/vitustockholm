@@ -10,8 +10,11 @@ Hi, I'm Vytautas.
 - :pushpin: High frequency exchange trading, flashloans, distrubuted wallet chains, DEFI, NFT, blockchain development.
 
 **     14 years before used to write php code in .txt filetype document on Nokia 3100
+
 ***    a self-taught person
+
 ****   trust in documentation **before *update or/and ***after *update
+
 Trust in Code
 
 ⭐️ From [VytautasB](https://vytautasb.netlify.app/)
