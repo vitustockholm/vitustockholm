@@ -17,4 +17,4 @@ Hi, I'm Vytautas.
 
 Trust in Code
 
-⭐️ From [VytautasB](https://vytautasb.netlify.app/)
+⭐️ From [VytautasB]
