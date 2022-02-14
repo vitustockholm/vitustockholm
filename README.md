@@ -15,7 +15,7 @@ Hi, I'm Vytautas 33.
 
 ***    100% self-taught person
 
-****   2 years ago became technically very interested in JAVASCRIPT and other WEB 3.0 dapps.
+****   2 years ago became technically very interested in JAVASCRIPT and Zsnarks
 
 ***** White hat label to all techs . 
 
