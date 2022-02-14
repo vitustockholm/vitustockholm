@@ -11,7 +11,7 @@ Hi, I'm Vytautas 33.
 
 **     14 years before used to write php code in .txt by Nokia 3100. Tech is hack from itself. Lets tech!
 
-***    2015 become blockchain entuziast, already used all apss 
+***    2015 become blockchain entuziast and blockchain distributed wallets expert.
 
 ***    100% self-taught person
 
