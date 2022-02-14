@@ -17,6 +17,8 @@ Hi, I'm Vytautas 33.
 
 ****   2 years ago became very interested in JAVASCRIPT and other WEB 3.0 dapps.
 
+***** White hat label to all techs . 
+
 Trust in Code
 
 ⭐️ From [VytautasB]
