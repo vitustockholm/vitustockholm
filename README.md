@@ -10,8 +10,11 @@ Hi, I'm Vytautas 33.
 - :pushpin: High frequency exchange trading, flashloans, distrubuted wallet chains, DEFI, NFT, blockchain development.
 
 **     14 years before used to write php code in .txt by Nokia 3100. 
+
 ***    2015 become blockchain entuziast
+
 ***    100% self-taught person
+
 ****   2 years ago started learning javascript and that was my best decision
 
 Trust in Code
