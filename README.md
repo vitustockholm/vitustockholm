@@ -7,7 +7,7 @@ Hi, I'm Vytautas. JavaScript, React, NodeJS developer. Currently mapping on web3
 
 - :books: I’m learning now Kubernetes, Docker, Big Data Science, Python and Tableu.
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> 
-- :pushpin: High frequency exchange trading, flashloans, distrubuted wallets, nfts, games, threejs.
+- :pushpin: High frequency exchange trading, flashloans, distrubuted wallets, nfts, games, threejs, web commerce storefronts, frontends, mysql , nosql.
 
 
 Trust in Code and Documentation
