@@ -3,11 +3,12 @@
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/vitustockholm)](https://dev.to/vitustockholm)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@vitustockholm)](https://medium.com/@vitustockholm)
 
-Hi, I'm Vytautas. JavaScript, React, NodeJS developer. Currently mapping on web3,- decentralized data analysis.
+Hi, I'm Vytautas. JavaScript, React, NodeJS, Solidity developer. Currently mapping on web3,- decentralized hq data collection and analysis.
 
-- :books: I’m learning now Kubernetes, Docker, Big Data Science, Python and Tableu.
+- :books: I’m deep under crypto world from 2015. Tested almost all apps, and wallets from this time. Later found out billion reasons to code javascript. 
+- WEB1 WEB2 WEB3
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> 
-- :pushpin: High frequency exchange trading, flashloans, distrubuted wallets, nfts, games, threejs, web commerce storefronts, frontends, mysql , nosql.
+- :pushpin: High frequency exchange trading
 
 
 Trust in Code and Documentation
