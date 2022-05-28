@@ -12,4 +12,4 @@ Hi, I'm Vytautas. JavaScript, ReactJS, NodeJS, Solidity developer. Currently map
 
 Trust in Code and Documentation
 
-⭐️ From [VytautasB]
+⭐️ 
