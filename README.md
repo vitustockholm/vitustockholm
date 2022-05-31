@@ -10,6 +10,6 @@ Hi, I'm Vytautas. JavaScript, ReactJS, NodeJS, Solidity developer. Currently map
 - :pushpin: High frequency exchange trading, machine learning, data science.
 
 
-Trust in Code and Documentation
+Trust in Documentation
 
 ⭐️ 
